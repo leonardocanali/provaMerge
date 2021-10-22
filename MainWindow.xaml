@@ -9,6 +9,7 @@
     <Grid>
         <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Margin="42,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="TextBox"/>
         <Label x:Name="lbl_Output" Content="Label" HorizontalAlignment="Left" Margin="42,76,0,0" VerticalAlignment="Top" Width="182"/>
+        <Button x:Name="btn_Clicca" Content="Button" HorizontalAlignment="Left" Margin="42,121,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
